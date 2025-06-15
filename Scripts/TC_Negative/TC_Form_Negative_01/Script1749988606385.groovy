@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://demoqa.com/automation-practice-form')
 
-WebUI.scrollToElement(findTestObject('PracticeForm/Input-FirstName'), 5)
+WebUI.scrollToElement(findTestObject('PracticeForm/Input-FirstName'), 7)
 
 WebUI.setText(findTestObject('PracticeForm/Input-FirstName'), 'Sela')
 
@@ -49,6 +49,8 @@ WebUI.uploadFile(findTestObject('PracticeForm/Upload-Photo'), 'C:\\Users\\Phinco
 
 WebUI.setText(findTestObject('PracticeForm/Input-Address'), 'Jakarta')
 
+WebUI.scrollToElement(findTestObject('PracticeForm/State/State-Container'), 5)
+
 WebUI.click(findTestObject('PracticeForm/State/State-Container'))
 
 WebUI.click(findTestObject('PracticeForm/State/State-Haryana'))
@@ -62,6 +64,4 @@ WebUI.click(findTestObject('PracticeForm/Submit'))
 WebUI.verifyElementPresent(findTestObject('PracticeForm/Validate'), 3)
 
 WebUI.closeBrowser()
-
-WebUI.sendKeys(findTestObject('PracticeForm/Input-DOB'), '')
 
