@@ -15,7 +15,14 @@
       <guid>ac791b3a-ffca-47cf-8301-e1cf996920e7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_Form_Positive_01</testCaseId>
+      <testCaseId>Test Cases/TC_Positive/TC_Form_Positive_01</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0b0eff3c-f502-4354-878b-6c4862037b12</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Positive/TC_Form_Positive_02</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

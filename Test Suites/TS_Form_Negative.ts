@@ -15,7 +15,7 @@
       <guid>9f220df4-135d-4771-a7e8-3522f4d354f5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_Form_Negative_01</testCaseId>
+      <testCaseId>Test Cases/TC_Negative/TC_Form_Negative_01</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
