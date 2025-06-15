@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tidak isi last name</description>
+   <name>TC_Form_Negative_02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>865a0aaf-ff70-440b-a711-7ef3a8c3c9d9</testCaseGuid>
+</TestCaseEntity>
