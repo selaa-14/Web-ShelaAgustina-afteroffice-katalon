@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input-FirstName</name>
+   <tag></tag>
+   <elementGuidId>a7145f6c-8fbd-4cc2-aa99-53aad07abfa9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'firstName
+']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='firstName']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>firstName
+</value>
+      <webElementGuid>fb81fab3-8e17-4d1a-909d-7fefcfeb900a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

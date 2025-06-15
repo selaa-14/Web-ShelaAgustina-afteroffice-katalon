@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Form_Positive_01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d527d7e3-d868-4ab6-8a2f-6ff410e8c1f1</testCaseGuid>
+</TestCaseEntity>
