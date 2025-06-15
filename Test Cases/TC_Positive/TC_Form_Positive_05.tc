@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Beda state and city</description>
+   <name>TC_Form_Positive_05</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7eb830d0-120a-42a7-94d4-9132b553633d</testCaseGuid>
+</TestCaseEntity>
